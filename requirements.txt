@@ -1,0 +1,11 @@
+# Core dependencies for sign language digit recognition
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Text-to-speech (Windows only, but harmless on other platforms)
+pyttsx3>=2.90
+
+# Optional: for data collection and training
+matplotlib>=3.7.0
